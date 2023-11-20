@@ -1,4 +1,4 @@
-STEPS performed on Mac OS:
+### STEPS performed on Mac OS:
 0. Pre-requiaite:
     a. Install Python
     b. Create virtual environment using documentation https://docs.getdbt.com/docs/core/pip-install
